@@ -1,0 +1,40 @@
+Semiconductor components
+------------------------
+
+ATtiny414 or ATtiny814 in an SOIC14 package – 1 piece
+WS2812B RGB LED in an SMD 5050 package - 1 piece
+
+Capacitors in 0805 package
+--------------------------
+
+100 nF - 2 pieces
+
+Resistors in 1206 package (1%)
+------------------------------
+
+4K7 - 4 pieces
+10K - 2 pieces
+
+Resistors in 0805 package (1%)
+------------------------------
+
+560 - 4 pieces
+680 - 4 pieces
+820 - 4 pieces
+1K0 - 4 pieces
+1K5 - 4 pieces
+2K7 - 4 pieces
+3K9 - 4 pieces
+6K8 - 4 pieces
+22K - 4 pieces
+
+Tactile buttons
+---------------
+
+see text - 43 pieces
+
+Conector(s)
+---------------
+
+see text
+
